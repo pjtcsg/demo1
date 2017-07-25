@@ -1,0 +1,29 @@
+.self-form{
+    margin-top:14px;
+}
+.self-header{
+    margin-top:15px;  
+}
+.self-navs li a{
+    color:black;
+    background:none;
+    font-weight:700;
+}
+.self-navs li a:hover {
+    color: orange;
+    background: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.smlogo
+{
+background:red;
+color:white;
+position: relative;
+left:30px;
+right:40px;
+top:-350px;
+font-size:20px;
+
+}
